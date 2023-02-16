@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moagimv
-- 👀 I’m interested in Java, Spring, Springboot, Primefaces, Bootfaces, JPA, J-Unit Testing, HTML, XHTML, JSF, EJB, XML, JSON, AngularJs, Angular, Android, Web Services, Restfull, Restless, Jboss, Wildfly, TomCat, MongoDB, Oracle, Data Analytics, BigData 
+- 👀 I’m interested in Java, Spring, Springboot, Primefaces, Bootfaces, JPA, J-Unit Testing, HTML, XHTML, JSF, EJB, XML, JSON, AngularJs, Angular, Android, Web Services( Restfull, Restless,SOAP), Jboss, Wildfly, TomCat,MS SQL, MongoDB, Oracle SQL, Data Analytics, BigData 
 - 🌱 I’m currently learning ReactJs, C#
 - 💞️ I’m looking to collaborate on my current knowledge and learnigs
 - 📫 How to reach me ...
