@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moagimv
 - 👀 I’m interested in Java, Spring, Springboot, Primefaces, Bootfaces, JPA, J-Unit Testing, HTML, XHTML, JSF, EJB, XML, JSON, AngularJs, Angular, Android, Web Services(Restfull, SOAP), Jboss, Wildfly, TomCat,MS SQL, MongoDB, Oracle SQL, Data Analytics, BigData 
-- 🌱 I’m currently learning ReactJs, C#
+- 🌱 I’m currently learning Flutter, ReactJs, C#
 - 💞️ I’m looking to collaborate on my current knowledge and learnigs
 - 📫 How to reach me ...
 cellphone no.: +27 65 854 6617
